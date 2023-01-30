@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  padding: 200px;
+  padding-top: 150px;
+}
+.heading {
+  font-size: 50px;
+  text-align: center;
+}
+.countText {
+  color: #c20a72;
+}
+.text {
+  font-size: 20px;
+  color: #2d3a35;
+}
+.button {
+  border-radius: 5px;
+  height: 30px;
+  width: 20%;
+  cursor: pointer;
+  color: #f1f5f8;
+  background-color: #007bff;
+  border-width: 0px;
+  outline: none;
+}
